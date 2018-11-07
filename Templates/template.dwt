@@ -7,17 +7,22 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	  <p></p>
   <!-- TemplateBeginEditable name="doctitle" -->
-    <title>Hello, world!</title>
+    <title>Unsplashed Photographers</title>
     <!-- TemplateEndEditable -->
     <!-- TemplateBeginEditable name="head" -->
     <!-- TemplateEndEditable -->
   </head>
   <body>
 	  <div class="container">
+		  
+    <h1>Unsplash Photographer Spotlight</h1>
+		  <p>[My misson statement.]</p>
     <!-- TemplateBeginEditable name="content" -->
-    <h1>Home Page</h1>
+    <p>[placeholder]</p>
     <!-- TemplateEndEditable -->
+		  <p>footer</p>
 	  </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
